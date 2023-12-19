@@ -1,0 +1,5 @@
+DT, whole, 1
+Id, a, 1
+assignment_operator, =, 1
+Integer Constant, 5, 1
+$, , 2
